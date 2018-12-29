@@ -1,9 +1,10 @@
 Background on Cookiecutter: http://pbpython.com/notebook-process.html
 
 
-# Project Title
+# {{cookiecutter.project_name}}
 
-One Paragraph of project description goes here
+{{cookiecutter.description}}
+
 
 ## Getting Started
 
